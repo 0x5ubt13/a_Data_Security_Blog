@@ -1,4 +1,6 @@
-# What constitutes a Security Breach and how is it different to a Data Breach?
+# Security Breach vs Data Breach
+
+### What constitutes a Security Breach and how is it different to a Data Breach?
 
 ## Security Breach
 Kaspersky resource center's definition:
@@ -19,9 +21,7 @@ Kaspersky resource center's definition:
 Without proper attention to detail, a small vulnerability can cause a massive data breach."
 
 
-
-
-## references:
+## References:
 
 Anon., 2020. Kaspersky - What is a security breach. [Online]\
 Available at: https://www.kaspersky.co.uk/resource-center/threats/what-is-a-security-breach \
