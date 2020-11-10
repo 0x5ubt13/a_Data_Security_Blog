@@ -3,9 +3,9 @@ November 10th, 2020
 # Security Breach vs Data Breach
 
 ### Table of contents:
-* Definitions#1
-..* Security Breach#
-..* Data Breach
+* Definitions
+  * Security Breach
+  * Data Breach
 * So, what's the difference?#2
 
 ### What constitutes a Security Breach and how is it different to a Data Breach?
