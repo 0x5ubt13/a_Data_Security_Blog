@@ -23,10 +23,10 @@ Without proper attention to detail, a small vulnerability can cause a massive da
 
 ## references:
 
-Anon., 2020. Kaspersky - What is a security breach. [Online]
-Available at: https://www.kaspersky.co.uk/resource-center/threats/what-is-a-security-breach 
+Anon., 2020. Kaspersky - What is a security breach. [Online]\
+Available at: https://www.kaspersky.co.uk/resource-center/threats/what-is-a-security-breach \
 [Accessed 10 November 2020]
 
-Anon,. 2020. Kaspersky - What is a data breach. [Online]
-https://www.kaspersky.com/resource-center/definitions/data-breach 
+Anon,. 2020. Kaspersky - What is a data breach. [Online] \
+https://www.kaspersky.com/resource-center/definitions/data-breach \
 [Accessed 10 November 2020]
