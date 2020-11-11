@@ -4,21 +4,21 @@ November 10th, 2020
 
 ### Table of contents:
 * Definitions
-  * Security Breach
-  * Data Breach
-* So, what's the difference?
+  * [Security Breach][1]
+  * [Data Breach][2]
+* [So, what's the difference?][3]
 
 ### What constitutes a Security Breach and how is it different to a Data Breach?
 
 # Definitions
 
-## Security Breach
+## [Security Breach][1]
 Kaspersky resource center's defines it like this:
 
 > "A security breach is any incident that results in unauthorized access to computer data, applications, networks or devices. It results in information being accessed without authorization. Typically, it occurs when an intruder can bypass security mechanisms.
 
 
-## Data breach
+## [Data Breach][2]
 Kaspersky resource center's definition:
 
 > "Data breaches can be far more than a temporary terror — they may change the course of your life. Businesses, governments, and individuals alike can experience huge complications from having sensitive information exposed. Whether you are offline or online, hackers can get to you through the internet, Bluetooth, text messages, or the online services that you use.
@@ -26,7 +26,7 @@ Kaspersky resource center's definition:
 
 
 
-## So, what's the difference?
+## [So, what's the difference?][3]
 
 Technically, there's a distinction between a security breach and a data breach. A security breach is effectively a break-in, whereas a data breach is defined as the cybercriminal getting away with information. Imagine a burglar; the security breach is when he climbs through the window, and the data breach is when he grabs your pocketbook or laptop and takes it away.
 
