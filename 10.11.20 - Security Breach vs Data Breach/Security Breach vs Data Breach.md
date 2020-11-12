@@ -51,5 +51,5 @@ https://www.kaspersky.com/resource-center/definitions/data-breach \
 [Accessed 10 November 2020]
 
 Rich Murphy, May 3rd, 2019. Cybershark - What Is the Difference Between a Security Incident and a Security Breach? [Online] \
-https://www.blackstratus.com/what-is-the-difference-between-a-security-incident-and-a-security-breach/#What%20is%20a%20Security%20Breach?
+https://www.blackstratus.com/what-is-the-difference-between-a-security-incident-and-a-security-breach/#What%20is%20a%20Security%20Breach? \
 [Accessed 10 November 2020]
