@@ -18,7 +18,7 @@ Kaspersky resource center's defines it like this:
 
 > "A security breach is any incident that results in unauthorized access to computer data, applications, networks or devices. It results in information being accessed without authorization. Typically, it occurs when an intruder can bypass security mechanisms."
 
-The GDPR by the European Union defines in like this:
+The GDPR by the European Union defines it like this:
 > "... a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed."
 
 ## <a id="data_breach">Data Breach</a>
