@@ -1,5 +1,7 @@
 # A Data Security Blog
-A blog containing information and thoughts regarding Data Security issues
+A new exciting project to improve my written English skills, git skills and markdown text formatting skills.
+
+Little github blog containing information and thoughts regarding Data Security issues.
 
 ## November 2020
 
