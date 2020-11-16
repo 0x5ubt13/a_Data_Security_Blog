@@ -10,5 +10,6 @@
 | Number of encrypted credit cards taken:   | 90,000                                                                                               |
 | Number of attacks:                        | 14,000 attacks over Oct 2015                                                                         |
 | ICO fine:                                 | £400,000                                                                                             |
+|---|
 
 
