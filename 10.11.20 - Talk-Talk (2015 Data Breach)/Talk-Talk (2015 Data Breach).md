@@ -1,6 +1,6 @@
 # Talk-Talk (2015 Data Breach)
 
-| Title :      |                                Feature:                                                       |
+| Title :                                      Feature:                                                       |
 |:------------------------------------------|:-----------------------------------------------------------------                                    |
 | CEO:                                      | [Dido Harding](https://en.wikipedia.org/wiki/Dido_Harding)                                           |
 | Number of customers affected:             | 157,000                                                                                              |
@@ -10,6 +10,6 @@
 | Number of encrypted credit cards taken:   | 90,000                                                                                               |
 | Number of attacks:                        | 14,000 attacks over Oct 2015                                                                         |
 | ICO fine:                                 | £400,000                                                                                             |
-|---|
+
 
 
