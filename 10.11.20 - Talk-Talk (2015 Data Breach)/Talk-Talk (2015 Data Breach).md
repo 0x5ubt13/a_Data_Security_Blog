@@ -1,6 +1,6 @@
 # Talk-Talk (2015 Data Breach)
 
-|                                   Important features:                                                                                            |
+| Title :      |                                Feature:                                                       |
 |:------------------------------------------|:-----------------------------------------------------------------                                    |
 | CEO:                                      | [Dido Harding](https://en.wikipedia.org/wiki/Dido_Harding)                                           |
 | Number of customers affected:             | 157,000                                                                                              |
